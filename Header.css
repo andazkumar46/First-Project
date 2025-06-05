@@ -1,0 +1,149 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+.header {
+  /* background-color: aqua; */
+  height: 200px;
+}
+
+.box1 {
+  background-color: #755fda;
+  height: 60px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 25px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.box2{
+    /* background-color: brown; */
+    height: 160px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.img-tshirt {
+    width: 60px;
+    margin-left: 20px;
+}
+.img-sunglass{
+    width: 75px;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.img-shoes{
+    width: 75px;
+    margin-left: 13px;
+}
+.img-shirt{
+    width: 65px;
+    margin-left: 18px
+}
+.img-pant{
+    width: 75px;
+    margin-left: 15px;
+}
+.img-perfumes{
+    width: 75px;
+    margin-left: 15px;
+}
+
+.item1 {
+  /* background-color: aquamarine; */
+  height: 110px;
+  width: 105px;
+  /* cursor:pointer; */
+
+}
+.item2 {
+  /* background-color: rgb(31, 11, 97); */
+  height: 110px;
+  width: 105px;
+}
+.item3 {
+  /* background-color: aquamarine; */
+  height: 110px;
+  width: 105px;
+}
+
+.item4 {
+  /* background-color: aquamarine; */
+  height: 110px;
+  width: 105px;
+}
+.item5 {
+    /* background-color: aquamarine; */
+    height: 110px;
+    width: 105px;
+  }
+.item4 {
+    /* background-color: aquamarine; */
+    height: 110px;
+    width: 105px;
+  }
+
+.text-tshirt{
+    height: 25px;
+    width: 85px;
+    position: relative;
+    top: 10px;
+    margin-left: 23px;
+    display: inline-block;
+    cursor: pointer;
+   
+}
+.text-sunglass{
+    height: 25px;
+    width: 85px;
+    position: relative;
+    top: 30px;
+    margin-left: 11px;
+    display: inline-block;
+    cursor: pointer;
+
+}
+
+.text-shirt{
+    height: 25px;
+    width: 85px;
+    position: relative;
+    top: 2px;
+    margin-left: 30px;
+    display: inline-block;
+    cursor: pointer;
+
+}
+.text-shoes{
+    height: 25px;
+    width: 85px;
+    position: relative;
+    top: 8px;
+    margin-left: 25px;
+    display: inline-block;
+    cursor: pointer;
+
+}
+.text-pant{
+    height: 25px;
+    width: 85px;
+    position: relative;
+    top: 8px;
+    margin-left: 33px;
+    display: inline-block;
+    cursor: pointer;
+
+}
+.text-perfumes{
+    height: 25px;
+    width: 85px;
+    position: relative;
+    top: 15px;
+    margin-left: 15px;
+    display: inline-block;
+    cursor: pointer;
+}
